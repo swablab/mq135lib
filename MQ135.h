@@ -1,5 +1,5 @@
-#ifndef MQ135New_H
-#define MQ135New_H
+#ifndef MQ135_H
+#define MQ135_H
 
 #include "Arduino.h"
 
